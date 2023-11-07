@@ -8,8 +8,8 @@
 
 
 body {
-    background: url('../imagens/fundo-deadsec.jpg') no-repeat top center;
-    background-size: cover;
+    background: url('../imagens/yaaprincipal.jpg') repeat top center;
+    background-size: auto;
     background-attachment: fixed;
 }
 
